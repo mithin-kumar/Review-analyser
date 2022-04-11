@@ -1,14 +1,12 @@
 # Review-analyser
 
-A Natural Language processing Project.
+A Natural Language Processing Project.
 
-Dataset containing reviews of customer of a resturant where  each review is classified as either positive review(1) or negative review(0) is used to train our ML model
+The dataset containing reviews of customers of a restaurant where each review is classified as either positive review(1) or negative review(0) is used to train our ML model
 
-Feature extraction techniques used: BagofWords and TFIDF
+Feature extraction techniques used: Bag of Words and TFIDF
 
-accuracy achieved using NaiveBayes algorithm:67%
+the accuracy achieved using NaiveBayes algorithm:67%
 
-Accuracy  achived  using Support Vector Machine algorithm:
-on training set:99.7%
-on testing set:84%
+The accuracy achieved using Support Vector Machine algorithm: on training set:99.7% on testing set:84%
       
